@@ -1,0 +1,17 @@
+{
+    "name": "youhujun/bs-pay-sdk",
+    "description": "hui fu dou gong Quick Payment sdk",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YouHuJun\\BsPaySdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "youhujun",
+            "email": "2900976495@qq.com"
+        }
+    ],
+    "require": {}
+}
