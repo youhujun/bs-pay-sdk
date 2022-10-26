@@ -1,18 +1,14 @@
 # 一安装
 
 ```
- composer require youhujun/youhujun/bs-pay-sdk
+ composer require youhujun/bs-pay-sdk
 ```
-
-
 
 # 二使用
 
 ```
  require_once __DIR__."/../vendor/autoload.php";
 ```
-
-
 
 # 三定义常量
 
@@ -47,8 +43,6 @@ if (!defined("PROD_MODE")) {
     define("PROD_MODE", true);
 }
 ```
-
-
 
 # 四使用示例
 
@@ -101,4 +95,3 @@ if(function_exists('p'))
     }
 }
 ```
-
